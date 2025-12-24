@@ -409,8 +409,8 @@
             "modid": "fgo",
             "name": "FGOMod",
             "author_list": ["Kino"],
-            "description": "Adds a new character Master in Fate/Grand Order to Slay the Spire.\n\n添加了Fate/Grand Order中御主到杀戮尖塔。咕哒子今天也要爬塔。",
-            "version": "1.2.3-Android-hotfix",
+            "description": "添加了Fate/Grand Order中御主到杀戮尖塔。咕哒子今天也要爬塔。",
+            "version": "1.2.4-Chrismas",
             "sts_version": "12-18-2022",
             "mts_version": "3.30.3",
             "dependencies": ["basemod", "stslib"]
