@@ -1,0 +1,47 @@
+[
+  {
+    "modid": "basemod",
+    "notification": "基础模组，必须启用"
+  },
+  {
+    "modid": "stslib",
+    "notification": "大部分模组的前置，一般情况下请勿禁用"
+  },
+  {
+    "modid": "image_io_compat",
+    "notification": "该模组已弃用，请删除"
+  },
+  {
+    "modid": "stsm-render-fixer",
+    "notification": "修复若干渲染问题，主动添加 MintSkin 等依赖 ImageIO 库的模组、Haberdashery、RyoikiTenkai 余像特效等等问题的兼容修复"
+  },
+  {
+    "modid": "stsmaudiofixer",
+    "notification": "修复首次触发音频不播放的问题"
+  },
+  {
+    "modid": "spireTogether",
+    "notification": "启动器 1.5.3-dev4 版本修复了该模组伤害不同步的问题"
+  },
+  {
+    "modid": "ypp-rpc",
+    "notification": "该模组兼容性存在问题，需要去在线模组里下载兼容的版本"
+  },
+  {
+    "modid": "sts-metrics",
+    "notification": "可以去在线模组寻找该模组的前置模组ypp-rpc"
+  },
+  {
+    "modid": "superfastmode",
+    "notification": "启动器 1.5.3-dev4 版本添加该模组的兼容，如果遇到添加后发现画面变卡动画变慢，请考虑升级启动器版本到 1.5.3-dev4"
+  },
+  {
+    "modid": "RyoikiTenkai",
+    "notification": "STSM Render Fixer 已修复余像导致UI消失的问题"
+  },
+  {
+    "modid": "quickRestart2",
+    "notification": "Quick restart的修改版，可以SL问号事件，启用该模组后请检查是否关闭原版的Quick restart。"
+  }
+]
+

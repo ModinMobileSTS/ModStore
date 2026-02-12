@@ -1,420 +1,500 @@
 {
-    "actlikeit": {
+  "actlikeit": {
     "url": "mods/actlikeit.jar",
     "steamId": "",
     "info": {
-        "modid": "actlikeit",
-        "name": "Act Like it!",
-        "author_list": ["Razash"],
-        "credits": "DarkGlade for decluttering event options.",
-        "description": "Rudimentary framework for creating acts.",
-        "version": "v1.2.8",
-        "sts_version": "18-12-2022",
-        "mts_version": "3.8.0",
-        "dependencies": ["basemod"]
+      "modid": "actlikeit",
+      "name": "Act Like it!",
+      "author_list": [
+        "Razash"
+      ],
+      "credits": "DarkGlade for decluttering event options.",
+      "description": "Rudimentary framework for creating acts.",
+      "version": "v1.2.8",
+      "sts_version": "18-12-2022",
+      "mts_version": "3.8.0",
+      "dependencies": [
+        "basemod"
+      ]
     }
-
-
-},"PerfectRobot": {
+  },
+  "STS Service Framework": {
+    "url": "mods/STS Service Framework ypp-rpc.jar",
+    "steamId": "",
+    "info": {
+      "modid": "yyp-rpc",
+      "name": "卡牌抓取率前置的手机适配版",
+      "author_list": [
+        "Razash",
+        "Apricityx"
+      ],
+      "credits": "DarkGlade for decluttering event options.",
+      "description": "Rudimentary framework for creating acts.",
+      "version": "v1.2.8",
+      "sts_version": "18-12-2022",
+      "mts_version": "3.8.0",
+      "dependencies": [
+        "basemod"
+      ]
+    }
+  },
+  "PerfectRobot": {
     "url": "mods/PerfectRobot.jar",
     "steamId": "",
     "info": {
-        "modid": "PerfectRobotmod",
-        "name": "The Perfect (完美机器人)",
-        "author_list": ["光影相生"],
-        "description": "The Defect Upgrade his core. Now what he will be?",
-        "version": "0.0.1",
-        "sts_version": "12-22-2020",
-        "mts_version": "3.23.2",
-        "dependencies": ["basemod","stslib"]
+      "modid": "PerfectRobotmod",
+      "name": "The Perfect (完美机器人)",
+      "author_list": [
+        "光影相生"
+      ],
+      "description": "The Defect Upgrade his core. Now what he will be?",
+      "version": "0.0.1",
+      "sts_version": "12-22-2020",
+      "mts_version": "3.23.2",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ]
     }
-
-
-},"BlackLightRelic": {
+  },
+  "BlackLightRelic": {
     "url": "mods/BlackLightRelic.jar",
     "steamId": "",
     "info": {
-        "modid": "Muban",
-        "name": "黑光遗物Mod",
-        "author_list": ["Dieyou"],
-        "description": "",
-        "version": "0.1.6",
-        "sts_version": "12-22-2020",
-        "mts_version": "3.23.2",
-        "dependencies": ["basemod","stslib"]
+      "modid": "Muban",
+      "name": "黑光遗物Mod",
+      "author_list": [
+        "Dieyou"
+      ],
+      "description": "",
+      "version": "0.1.6",
+      "sts_version": "12-22-2020",
+      "mts_version": "3.23.2",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ]
     }
-
-
-},"revengingwraith": {
+  },
+  "revengingwraith": {
     "url": "mods/Revenging_Wraith.jar",
     "steamId": "",
     "info": {
-        "modid": "revengingwraith",
-        "name": "复仇怨灵Revenging_Wraith",
-        "author_list": ["旧日回响，The forgotten，炉心勇解，茉莉Mori"],
-        "description": "高塔的王子，身染荒疫，引气入体，如今只剩一具骨架，一抹残魂，势必要铲除腐败的源头。",
-        "version": "1.0.5",
-        "sts_version": "12-18-2022",
-        "mts_version": "3.30.3",
-        "dependencies": ["basemod","stslib"]
-    }},
-    "HuTaoMod": {
+      "modid": "revengingwraith",
+      "name": "复仇怨灵Revenging_Wraith",
+      "author_list": [
+        "旧日回响，The forgotten，炉心勇解，茉莉Mori"
+      ],
+      "description": "高塔的王子，身染荒疫，引气入体，如今只剩一具骨架，一抹残魂，势必要铲除腐败的源头。",
+      "version": "1.0.5",
+      "sts_version": "12-18-2022",
+      "mts_version": "3.30.3",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ]
+    }
+  },
+  "HuTaoMod": {
     "url": "mods/hutao-mod.jar",
     "steamId": "",
     "info": {
-        "modid": "HuTaoMod",
-        "name": "HuTaoMod【胡桃MOD】",
-        "author_list": ["Aaron喏"],
-        "description": "以原神中的胡桃为主角的MOD。 A mod themed after Genshin character: Hu Tao.",
-        "version": "1.0.0",
-        "sts_version": "12-18-2022",
-        "mts_version": "3.23.3",
-        "dependencies": ["basemod", "stslib"]
-
+      "modid": "HuTaoMod",
+      "name": "HuTaoMod【胡桃MOD】",
+      "author_list": [
+        "Aaron喏"
+      ],
+      "description": "以原神中的胡桃为主角的MOD。 A mod themed after Genshin character: Hu Tao.",
+      "version": "1.0.0",
+      "sts_version": "12-18-2022",
+      "mts_version": "3.23.3",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ]
     }
-
-
-},"UnlockEverythingMod": {
+  },
+  "UnlockEverythingMod": {
     "url": "mods/UnlockEverythingMod.jar",
     "steamId": "",
     "info": {
-        "modid": "UnlockEverythingMod",
-        "name": "Unlock Everything Mod",
-        "author_list": ["彼君不触"],
-        "description": "Unlocks Ascension 20 for original characters. Unlocks Daily & Custom. Unlocks all relics & cards in STS (excludes mod). Unlocks permission to be able to enter 4th Act. Unlocks beta art & The Ending in custom run. This Mod is almost One-Time-Affective, however usually players need to run game with this mod twice. If you are running the mod with a brand new save file, restart is required to unlock ascension for Ironclad.",
-        "version": "5.0.0",
-        "sts_version": "01-27-2020",
-        "dependencies": ["basemod"]
+      "modid": "UnlockEverythingMod",
+      "name": "Unlock Everything Mod",
+      "author_list": [
+        "彼君不触"
+      ],
+      "description": "Unlocks Ascension 20 for original characters. Unlocks Daily & Custom. Unlocks all relics & cards in STS (excludes mod). Unlocks permission to be able to enter 4th Act. Unlocks beta art & The Ending in custom run. This Mod is almost One-Time-Affective, however usually players need to run game with this mod twice. If you are running the mod with a brand new save file, restart is required to unlock ascension for Ironclad.",
+      "version": "5.0.0",
+      "sts_version": "01-27-2020",
+      "dependencies": [
+        "basemod"
+      ]
     }
-
-
-},
-
-    "BlueHedgehog": {
-        "url": "mods/BlueHedgehog.jar",
-        "steamId": "",
-        "info": {
-            "modid": "BlueHedgehog",
-            "name": "The Hedgehog",
-            "author_list": ["SpireWolf25"],
-            "description": "Brings Sonic the Hedgehog to Slay the Spire.\n\r\nThe Hedgehog is a remix of the four vanilla characters.\n- Collect Rings to build your Dexterity\n- Perform Tricks to gain Vigor\n\r\nFeatures\n- BLAST PROCESSING\n- 60+ cards\n- Voice Clips (can be disabled in config)\n\r\nCredits\n- Card Art Screenshots from the Sonic Wiki.\n- Audio from the Sound Resource.\n- Help from the nice people in the modding-technical\n- Other Open Source mods (Astrologer, Marisa, Packmaster)",
-            "version": "0.7.0",
-            "sts_version": "12-18-2022",
-            "mts_version": "3.30.0",
-            "dependencies": ["basemod", "stslib"],
-            "update_json": ""
-        }
-
-
-    },
-    "mintySpire": {
-        "url": "mods/mintySpire.jar",
-        "steamId": "",
-        "info": {
-            "modid": "mintyspire",
-            "name": "Minty Spire 薄荷尖塔",
-            "author_list": ["erasels"],
-            "credits": "Contributors: kiooeht, Mmagicala, Linzi, NotInTheFace \nTranslators: (ZHS) Rita-B, (KOR) GyeRak, Celicath",
-            "description": "A compilation of small QoL mods that make life a little more comfy in the spire.",
-            "version": "2.5.8",
-            "sts_version": "11-29-2020",
-            "mts_version": "3.15.0",
-            "dependencies": ["basemod"],
-            "update_json": ""
-        }
-
-
-    },
-    "Palmod": {
-        "url": "mods/Palmod-0.1.jar",
-        "steamId": "",
-        "info": {
-            "modid": "Palworld",
-            "name": "[PalMod]幻兽尖塔",
-            "author_list": ["b站蝴蝶是幼虫"],
-            "description": "收服所有怪物吧！在战斗中右键开局送的遗物即可查看新手教程。本mod和以撒mod冲突",
-            "version": "0.2.5",
-            "sts_version": "11-29-2020",
-            "mts_version": "3.15.0",
-            "dependencies": ["basemod"],
-            "update_json": ""
-        }
-
-
-    },
-    "invincible-one": {
-        "url": "mods/invincible-one.jar",
-        "steamId": "",
-        "info": {
-            "modid": "invincible-one",
-            "name": "The Invincible 无敌者",
-            "author_list": ["Temple9", "vodkakaa"],
-            "description": "PS: You can use SuperFastMode if you want.\n",
-            "credits": "",
-            "version": "1.2.1",
-            "sts_version": "03-07-2022",
-            "mts_version": "3.24.0",
-            "dependencies": ["basemod", "stslib"],
-            "update_json": ""
-        }
-
-
-    },
-    "quickrestart": {
-        "url": "mods/quickRestart.jar",
-        "steamId": "",
-        "info": {
-            "modid": "quickrestart",
-            "name": "Quick Restart",
-            "author_list": ["erasels"],
-            "description": "Adds two buttons that allow you to quickly restart your game during and after your run.",
-            "version": "2.1.1",
-            "sts_version": "07-05-2019",
-            "mts_version": "3.11.0",
-            "dependencies": ["basemod"],
-            "update_json": ""
-        }
-
-    },
-    "stswanderers": {
-        "url": "mods/stswanderers.jar",
-        "steamId": "",
-        "info": {
-            "modid": "stswanderers",
-            "name": "The Castaway",
-            "author_list": ["Me! (Or well, you. If you want to use \"quotes\" make sure you have slashes in front of them like this.)"],
-            "description": "This is a description!\n\"This\" is a second line of description.\nThis \"\\\" is a slash. If you add another line like this:\nAll the spaces on the left of this will be gone. If you want spacing on a new line, do it:\n    like this.",
-            "version": "1.0.1",
-            "sts_version": "12-18-2022",
-            "mts_version": "3.30.0",
-            "dependencies": ["basemod", "stslib"],
-            "update_json": ""
-        }
-
-    },
-    "Remilia_Modoki": {
-        "url": "mods/RemiliaScarlet.jar",
-        "steamId": "",
-        "info": {
-            "modid": "Remilia_Modoki",
-            "name": "Remilia（蕾米莉亚）",
-            "author_list": [
-                "Volcrz"
-            ],
-            "description": "Adds Remilia（蕾米莉亚） from Touhou Project as a new playable character.",
-            "dependencies": [
-                "basemod"
-            ],
-            "version": "0.0.9",
-            "sts_version": "01-23-2019"
-        }
-
-    },
-    "stslib": {
-        "url": "mods/StSLib.jar",
-        "steamId": "",
-        "info": {
-            "modid": "stslib",
-            "name": "StSLib",
-            "author_list": ["kiooeht"],
-            "description": "A collection of keywords and mechanics for other Slay the Spire mods to use.",
-            "credits": "\n  Contributors: The_Evil_Pickle, Reina, Rin Camelia, erasels, EatYourBeetS, Jedi, Vex, Mistress Alison, Alchyr, Bryan, Pandemonium, NellyDevo, herbix, JamesTripleQ \n  Translation: Jedi (Russian), Rita-B (ZHS), rainfoxest (ZHS, ZHT), Mwalls (ZHS), Saki_1128 (Korean), Celicath (Korean), Diamsword (French), red5h4d0w (French)",
-            "version": "2.11.1",
-            "sts_version": "12-18-2022",
-            "mts_version": "3.24.0",
-            "dependencies": ["basemod"],
-            "update_json": "https://api.github.com/repos/kiooeht/StSLib/releases/latest"
-        }
-
-    },
-    "StackableRelics": {
-        "url": "mods/StackableRelics.jar",
-        "steamId": "",
-        "info": {
-            "modid": "StackableRelics",
-            "name": "Stackable Relics",
-            "author_list": [
-                "Maddii"
-            ],
-            "description": "peepoHawOnAGoose",
-            "version": "1.3.7",
-            "sts_version": "03-07-2022",
-            "mts_version": "3.25.2",
-            "dependencies": [
-                "basemod",
-                "stslib"
-            ],
-            "update_json": ""
-        }
-    },   "SaibaMidori": {
-        "url": "mods/Saiba Midori.jar",
-        "steamId": "",
-        "info": {
-            "modid": "SaibaMidori",
-            "name": "才羽 绿",
-            "author_list": [
-                "才羽绿", "antileaf", "茉莉、Mori"
-            ],
-            "description": "千年游戏开发部的原画师。",
-            "dependencies": [
-                "basemod", "stslib"
-            ],
-            "version": "0.0.2",
-            "sts_version": "12-06-2019v2"
-        }
-    },
-    "loadout": {
-        "url": "mods/loadout.jar",
-        "steamId": "",
-        "info": {
-            "modid": "loadout",
-            "name": "Loadout Mod",
-            "author_list": [
-                "JasonW"
-            ],
-            "credits": "Basemod, ModTheSpire, #modding",
-            "description": "Adds a debug panel that gives you stuffs.",
-            "version": "1.1.2",
-            "sts_version": "03-07-2022",
-            "mts_version": "3.26.0",
-            "dependencies": [
-                "basemod",
-                "stslib"
-            ],
-            "update_json": "",
-            "optional_dependencies": [
-                "RelicUpgradeLib",
-                "pinacolada-fabricate",
-                "extendedui",
-                "CardAugments",
-                "ruina",
-                "LazyManKits",
-                "spireTogether",
-                "Library of Ruina",
-                "chaofanmod",
-                "VUPShionMod",
-                "RiskOfRelics",
-                "pokeRegions"
-            ]
-        }
-    },
-    "CaiNongMod": {
-        "url": "mods/CaiNongMod.jar",
-        "steamId": "",
-        "info": {
-            "modid": "CaiNongMod",
-            "name": "菜农Mod",
-            "author_list": ["农黑", "農農又黑黑"],
-            "description": "咕噜咕噜咕噜咕噜咕咚咚,拍点点拍点点拍拍拍。\n\n 菜农mod群930677646",
-            "version": "1.0.3",
-            "sts_version": "12-22-2020",
-            "mts_version": "3.30.3",
-            "dependencies": ["basemod"]
-        }
-
-    },
-    "CET46InSpire": {
-        "url": "mods/CET46InSpire.jar",
-        "steamId": "",
-        "info": {
-            "modid": "CET46InSpire",
-            "name": "CET46 In Spire",
-            "author_list": ["__name__", "Dim"],
-            "description": "Do not forget CET46! Also JLPT.\n别忘了四六级！当然还有日本语能力测试。",
-            "version": "1.2.3",
-            "sts_version": "01-23-2019",
-            "mts_version": "3.7.0",
-            "dependencies": ["basemod", "stslib"],
-            "optional_dependencies": ["downfall"],
-            "credits": "Csx_QAQ_",
-            "update_json": ""
-        }
-    },
-    "DarkestNarration": {
-        "url": "mods/DarkestNarration.jar",
-        "steamId": "",
-        "info": {
-            "modid": "dd-narration-mod",
-            "name": "Darkest Narration",
-            "author_list": [
-                "xXSuperProGaemr.1997Xx"
-            ],
-            "description": "Add Darkest Dungeon style narration to the game.",
-            "version": "1.1.0",
-            "sts_version": "12-22-2020",
-            "mts_version": "3.18.2",
-            "dependencies": [
-                "basemod",
-                "stslib"
-            ]
-        }
-    },
-    "IsaacMod": {
-        "url": "mods/IsaacMod.jar",
-        "steamId": "",
-        "info": {
-            "modid": "IsaacMod",
-            "name": "[IsaacMod]以撒尖塔",
-            "author_list": ["Keeper"],
-            "description": "以撒尖塔，你穷未顽过的船新版本",
-            "version": "1.3.1",
-            "dependencies": [
-                "basemod",
-                "stslib"
-            ]
-        }
-
-    },
-    "ninja": {
-        "url": "mods/ninja.jar",
-        "steamId": "",
-        "info": {
-            "modid": "ninja",
-            "name": "蕾忍mod",
-            "author_list": [
-                "叛忍999（似乎被篡改成了这个名字）"
-            ],
-            "description": "忍法帖大成，目前70张牌与8遗物可以游玩。由于技术难题存在各种小bug且很有可能有恶性bug，本人技术力有限实在抱歉。 NL 刀系流派大加强",
-            "dependencies": [
-                "basemod",
-                "stslib"
-            ],
-            "version": "1.6.0",
-            "sts_version": "03-07-2022"
-        }
-
-    },
-    "DimlyGambler": {
-        "url": "mods/DimlyGambler.jar",
-        "steamId": "",
-        "info": {
-            "modid": "DimlyGambler",
-            "name": "DimlyGambler（暗淡赌徒）",
-            "author_list": [
-                "Dimly"
-            ],
-            "description": "一个原创MOD，有兴趣就来试一下？图片素材来源于网络（全是galgame），角色贴图是在恶搞我的同学（）",
-            "dependencies": [
-                "basemod"
-            ],
-            "version": "0.1.1",
-            "sts_version": "03-07-2022"
-        }
-
-    },
-    "FGOMod": {
-        "url": "mods/fgo.jar",
-        "steamId": "",
-        "info": {
-            "modid": "fgo",
-            "name": "FGOMod",
-            "author_list": ["Kino"],
-            "description": "Adds a new character Master in Fate/Grand Order to Slay the Spire.\n\n添加了Fate/Grand Order中御主到杀戮尖塔。咕哒子今天也要爬塔。",
-            "version": "1.2.3-Android-hotfix",
-            "sts_version": "12-18-2022",
-            "mts_version": "3.30.3",
-            "dependencies": ["basemod", "stslib"]
-
-        }
+  },
+  "BlueHedgehog": {
+    "url": "mods/BlueHedgehog.jar",
+    "steamId": "",
+    "info": {
+      "modid": "BlueHedgehog",
+      "name": "The Hedgehog",
+      "author_list": [
+        "SpireWolf25"
+      ],
+      "description": "Brings Sonic the Hedgehog to Slay the Spire.\n\r\nThe Hedgehog is a remix of the four vanilla characters.\n- Collect Rings to build your Dexterity\n- Perform Tricks to gain Vigor\n\r\nFeatures\n- BLAST PROCESSING\n- 60+ cards\n- Voice Clips (can be disabled in config)\n\r\nCredits\n- Card Art Screenshots from the Sonic Wiki.\n- Audio from the Sound Resource.\n- Help from the nice people in the modding-technical\n- Other Open Source mods (Astrologer, Marisa, Packmaster)",
+      "version": "0.7.0",
+      "sts_version": "12-18-2022",
+      "mts_version": "3.30.0",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ],
+      "update_json": ""
     }
+  },
+  "mintySpire": {
+    "url": "mods/mintySpire.jar",
+    "steamId": "",
+    "info": {
+      "modid": "mintyspire",
+      "name": "Minty Spire 薄荷尖塔",
+      "author_list": [
+        "erasels"
+      ],
+      "credits": "Contributors: kiooeht, Mmagicala, Linzi, NotInTheFace \nTranslators: (ZHS) Rita-B, (KOR) GyeRak, Celicath",
+      "description": "A compilation of small QoL mods that make life a little more comfy in the spire.",
+      "version": "2.5.8",
+      "sts_version": "11-29-2020",
+      "mts_version": "3.15.0",
+      "dependencies": [
+        "basemod"
+      ],
+      "update_json": ""
+    }
+  },
+  "Palmod": {
+    "url": "mods/Palmod-0.1.jar",
+    "steamId": "",
+    "info": {
+      "modid": "Palworld",
+      "name": "[PalMod]幻兽尖塔",
+      "author_list": [
+        "b站蝴蝶是幼虫"
+      ],
+      "description": "收服所有怪物吧！在战斗中右键开局送的遗物即可查看新手教程。本mod和以撒mod冲突",
+      "version": "0.2.5",
+      "sts_version": "11-29-2020",
+      "mts_version": "3.15.0",
+      "dependencies": [
+        "basemod"
+      ],
+      "update_json": ""
+    }
+  },
+  "invincible-one": {
+    "url": "mods/invincible-one.jar",
+    "steamId": "",
+    "info": {
+      "modid": "invincible-one",
+      "name": "The Invincible 无敌者",
+      "author_list": [
+        "Temple9",
+        "vodkakaa"
+      ],
+      "description": "PS: You can use SuperFastMode if you want.\n",
+      "credits": "",
+      "version": "1.2.1",
+      "sts_version": "03-07-2022",
+      "mts_version": "3.24.0",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ],
+      "update_json": ""
+    }
+  },
+  "quickrestart": {
+    "url": "mods/quickRestart.jar",
+    "steamId": "",
+    "info": {
+      "modid": "quickrestart",
+      "name": "Quick Restart",
+      "author_list": [
+        "erasels"
+      ],
+      "description": "Adds two buttons that allow you to quickly restart your game during and after your run.",
+      "version": "2.1.1",
+      "sts_version": "07-05-2019",
+      "mts_version": "3.11.0",
+      "dependencies": [
+        "basemod"
+      ],
+      "update_json": ""
+    }
+  },
+  "stswanderers": {
+    "url": "mods/stswanderers.jar",
+    "steamId": "",
+    "info": {
+      "modid": "stswanderers",
+      "name": "The Castaway",
+      "author_list": [
+        "Me! (Or well, you. If you want to use \"quotes\" make sure you have slashes in front of them like this.)"
+      ],
+      "description": "This is a description!\n\"This\" is a second line of description.\nThis \"\\\" is a slash. If you add another line like this:\nAll the spaces on the left of this will be gone. If you want spacing on a new line, do it:\n    like this.",
+      "version": "1.0.1",
+      "sts_version": "12-18-2022",
+      "mts_version": "3.30.0",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ],
+      "update_json": ""
+    }
+  },
+  "Remilia_Modoki": {
+    "url": "mods/RemiliaScarlet.jar",
+    "steamId": "",
+    "info": {
+      "modid": "Remilia_Modoki",
+      "name": "Remilia（蕾米莉亚）",
+      "author_list": [
+        "Volcrz"
+      ],
+      "description": "Adds Remilia（蕾米莉亚） from Touhou Project as a new playable character.",
+      "dependencies": [
+        "basemod"
+      ],
+      "version": "0.0.9",
+      "sts_version": "01-23-2019"
+    }
+  },
+  "stslib": {
+    "url": "mods/StSLib.jar",
+    "steamId": "",
+    "info": {
+      "modid": "stslib",
+      "name": "StSLib",
+      "author_list": [
+        "kiooeht"
+      ],
+      "description": "A collection of keywords and mechanics for other Slay the Spire mods to use.",
+      "credits": "\n  Contributors: The_Evil_Pickle, Reina, Rin Camelia, erasels, EatYourBeetS, Jedi, Vex, Mistress Alison, Alchyr, Bryan, Pandemonium, NellyDevo, herbix, JamesTripleQ \n  Translation: Jedi (Russian), Rita-B (ZHS), rainfoxest (ZHS, ZHT), Mwalls (ZHS), Saki_1128 (Korean), Celicath (Korean), Diamsword (French), red5h4d0w (French)",
+      "version": "2.11.1",
+      "sts_version": "12-18-2022",
+      "mts_version": "3.24.0",
+      "dependencies": [
+        "basemod"
+      ],
+      "update_json": "https://api.github.com/repos/kiooeht/StSLib/releases/latest"
+    }
+  },
+  "StackableRelics": {
+    "url": "mods/StackableRelics.jar",
+    "steamId": "",
+    "info": {
+      "modid": "StackableRelics",
+      "name": "Stackable Relics",
+      "author_list": [
+        "Maddii"
+      ],
+      "description": "peepoHawOnAGoose",
+      "version": "1.3.7",
+      "sts_version": "03-07-2022",
+      "mts_version": "3.25.2",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ],
+      "update_json": ""
+    }
+  },
+  "SaibaMidori": {
+    "url": "mods/Saiba Midori.jar",
+    "steamId": "",
+    "info": {
+      "modid": "SaibaMidori",
+      "name": "才羽 绿",
+      "author_list": [
+        "才羽绿",
+        "antileaf",
+        "茉莉、Mori"
+      ],
+      "description": "千年游戏开发部的原画师。",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ],
+      "version": "0.0.2",
+      "sts_version": "12-06-2019v2"
+    }
+  },
+  "loadout": {
+    "url": "mods/loadout.jar",
+    "steamId": "",
+    "info": {
+      "modid": "loadout",
+      "name": "Loadout Mod",
+      "author_list": [
+        "JasonW"
+      ],
+      "credits": "Basemod, ModTheSpire, #modding",
+      "description": "Adds a debug panel that gives you stuffs.",
+      "version": "1.1.2",
+      "sts_version": "03-07-2022",
+      "mts_version": "3.26.0",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ],
+      "update_json": "",
+      "optional_dependencies": [
+        "RelicUpgradeLib",
+        "pinacolada-fabricate",
+        "extendedui",
+        "CardAugments",
+        "ruina",
+        "LazyManKits",
+        "spireTogether",
+        "Library of Ruina",
+        "chaofanmod",
+        "VUPShionMod",
+        "RiskOfRelics",
+        "pokeRegions"
+      ]
+    }
+  },
+  "CaiNongMod": {
+    "url": "mods/CaiNongMod.jar",
+    "steamId": "",
+    "info": {
+      "modid": "CaiNongMod",
+      "name": "菜农Mod",
+      "author_list": [
+        "农黑",
+        "農農又黑黑"
+      ],
+      "description": "咕噜咕噜咕噜咕噜咕咚咚,拍点点拍点点拍拍拍。\n\n 菜农mod群930677646",
+      "version": "1.0.3",
+      "sts_version": "12-22-2020",
+      "mts_version": "3.30.3",
+      "dependencies": [
+        "basemod"
+      ]
+    }
+  },
+  "CET46InSpire": {
+    "url": "mods/CET46InSpire.jar",
+    "steamId": "",
+    "info": {
+      "modid": "CET46InSpire",
+      "name": "CET46 In Spire",
+      "author_list": [
+        "__name__",
+        "Dim"
+      ],
+      "description": "Do not forget CET46! Also JLPT.\n别忘了四六级！当然还有日本语能力测试。",
+      "version": "1.2.3",
+      "sts_version": "01-23-2019",
+      "mts_version": "3.7.0",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ],
+      "optional_dependencies": [
+        "downfall"
+      ],
+      "credits": "Csx_QAQ_",
+      "update_json": ""
+    }
+  },
+  "DarkestNarration": {
+    "url": "mods/DarkestNarration.jar",
+    "steamId": "",
+    "info": {
+      "modid": "dd-narration-mod",
+      "name": "Darkest Narration",
+      "author_list": [
+        "xXSuperProGaemr.1997Xx"
+      ],
+      "description": "Add Darkest Dungeon style narration to the game.",
+      "version": "1.1.0",
+      "sts_version": "12-22-2020",
+      "mts_version": "3.18.2",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ]
+    }
+  },
+  "IsaacMod": {
+    "url": "mods/IsaacMod.jar",
+    "steamId": "",
+    "info": {
+      "modid": "IsaacMod",
+      "name": "[IsaacMod]以撒尖塔",
+      "author_list": [
+        "Keeper"
+      ],
+      "description": "以撒尖塔，你穷未顽过的船新版本",
+      "version": "1.3.1",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ]
+    }
+  },
+  "ninja": {
+    "url": "mods/ninja.jar",
+    "steamId": "",
+    "info": {
+      "modid": "ninja",
+      "name": "蕾忍mod",
+      "author_list": [
+        "叛忍999（似乎被篡改成了这个名字）"
+      ],
+      "description": "忍法帖大成，目前70张牌与8遗物可以游玩。由于技术难题存在各种小bug且很有可能有恶性bug，本人技术力有限实在抱歉。 NL 刀系流派大加强",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ],
+      "version": "1.6.0",
+      "sts_version": "03-07-2022"
+    }
+  },
+  "DimlyGambler": {
+    "url": "mods/DimlyGambler.jar",
+    "steamId": "",
+    "info": {
+      "modid": "DimlyGambler",
+      "name": "DimlyGambler（暗淡赌徒）",
+      "author_list": [
+        "Dimly"
+      ],
+      "description": "一个原创MOD，有兴趣就来试一下？图片素材来源于网络（全是galgame），角色贴图是在恶搞我的同学（）",
+      "dependencies": [
+        "basemod"
+      ],
+      "version": "0.1.1",
+      "sts_version": "03-07-2022"
+    }
+  },
+  "FGOMod": {
+    "url": "mods/fgo.jar",
+    "steamId": "",
+    "info": {
+      "modid": "fgo",
+      "name": "FGOMod",
+      "author_list": [
+        "Kino"
+      ],
+      "description": "Adds a new character Master in Fate/Grand Order to Slay the Spire.\n\n添加了Fate/Grand Order中御主到杀戮尖塔。咕哒子今天也要爬塔。",
+      "version": "1.2.3-Android-hotfix",
+      "sts_version": "12-18-2022",
+      "mts_version": "3.30.3",
+      "dependencies": [
+        "basemod",
+        "stslib"
+      ]
+    }
+  }
 }
