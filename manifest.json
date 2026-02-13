@@ -75,6 +75,19 @@
         "stslib"
       ]
     }
+  },"AnimeTheIronClad": {
+    "url": "mods/AnimeTheIronClad.jar",
+    "steamId": "",
+    "info": {
+      "modid": "AnimeTheIronCladAndTheDefect",
+      "name": "战士哥,鸡煲,观者卡图娘化",
+      "author_list": ["Hatk"],
+      "description": "使得你卡图中的红裤衩，鸡煲和观者变成美少女，我说这就是尖塔诅咒你能反驳我吗？",
+      "version": "1.0.0",
+      "sts_version": "12-18-2022",
+      "mts_version": "3.30.3",
+      "dependencies": ["basemod"]
+    }
   },
   "revengingwraith": {
     "url": "mods/Revenging_Wraith.jar",
@@ -339,7 +352,7 @@
       ],
       "credits": "Basemod, ModTheSpire, #modding",
       "description": "Adds a debug panel that gives you stuffs.",
-      "version": "1.1.2",
+      "version": "1.2.4",
       "sts_version": "03-07-2022",
       "mts_version": "3.26.0",
       "dependencies": [
@@ -457,7 +470,7 @@
         "basemod",
         "stslib"
       ],
-      "version": "1.6.0",
+      "version": "1.7.1",
       "sts_version": "03-07-2022"
     }
   },
