@@ -13,11 +13,11 @@
   },
   {
     "modid": "stsm-render-fixer",
-    "notification": "修复若干渲染问题，主动添加 MintSkin 等依赖 ImageIO 库的模组、Haberdashery、RyoikiTenkai 余像特效等等问题的兼容修复。"
+    "notification": "启动器版本升级 1.5.4 后请删除该模组，内容已并入启动器！修复若干渲染问题，主动添加 MintSkin 等依赖 ImageIO 库的模组、Haberdashery、RyoikiTenkai 余像特效等等问题的兼容修复。"
   },
   {
     "modid": "stsmaudiofixer",
-    "notification": "修复首次触发音频不播放的问题。"
+    "notification": "启动器版本升级 1.5.4 后请删除该模组，内容已并入启动器！修复首次触发音频不播放的问题。"
   },
   {
     "modid": "spireTogether",
@@ -29,7 +29,7 @@
   },
   {
     "modid": "sts-metrics",
-    "notification": "可以去在线模组寻找该模组的前置模组ypp-rpc。"
+    "notification": "可以去在线模组寻找该模组的前置模组 ypp-rpc "
   },
   {
     "modid": "superfastmode",
@@ -37,15 +37,15 @@
   },
   {
     "modid": "RyoikiTenkai",
-    "notification": "STSM Render Fixer 已修复余像导致UI消失的问题。"
+    "notification": "启动器已修复余像导致UI消失的问题。"
   },
   {
     "modid": "quickRestart2",
-    "notification": "Quick restart的修改版，可以SL问号事件，启用该模组后请检查是否关闭原版的Quick restart。"
+    "notification": "Quick restart 的修改版，可以SL问号事件，启用该模组后请检查是否关闭原版的Quick restart。"
   },
   {
     "modid": "haberdashery",
-    "notification": "兼容性问题已由 STSM Render Fixer 修复。"
+    "notification": "兼容性问题已由启动器修复。"
   }
 ]
 
