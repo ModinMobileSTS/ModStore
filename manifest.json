@@ -37,6 +37,24 @@
         "basemod"
       ]
     }
+  } ,"STS Metrics": {
+    "url": "mods/metrics-0.1.3-plain.jar",
+    "steamId": "",
+    "info": {
+      "modid": "sts-metrics",
+      "name": "在线卡牌抓取率",
+      "author_list": [
+        "PaoPaoYue"
+      ],
+      "description": "A mod that aiming to share the gameplay metrics between players and facilitate modder on improving their mod. \n\nCurrent function includes: \n  - Card Pick Rate statistics \nYou can disable display statistics and upload data only in the mod configuration menu. \n\nAuthor:PaoPaoYue \nDiscord:https://discord.gg/CYW2drGMxC \nQ群: 787757483",
+      "version": "0.1.3",
+      "sts_version": "12-12-2020",
+      "mts_version": "3.10.1",
+      "dependencies": [
+        "basemod",
+        "ypp-rpc"
+      ]
+    }
   },
   "PerfectRobot": {
     "url": "mods/PerfectRobot.jar",
@@ -74,6 +92,19 @@
         "basemod",
         "stslib"
       ]
+    }
+  },"AnimeTheIronClad": {
+    "url": "mods/AnimeTheIronClad.jar",
+    "steamId": "",
+    "info": {
+      "modid": "AnimeTheIronCladAndTheDefect",
+      "name": "战士哥,鸡煲,观者卡图娘化",
+      "author_list": ["Hatk"],
+      "description": "使得你卡图中的红裤衩，鸡煲和观者变成美少女，我说这就是尖塔诅咒你能反驳我吗？",
+      "version": "1.0.0",
+      "sts_version": "12-18-2022",
+      "mts_version": "3.30.3",
+      "dependencies": ["basemod"]
     }
   },
   "revengingwraith": {
@@ -339,7 +370,7 @@
       ],
       "credits": "Basemod, ModTheSpire, #modding",
       "description": "Adds a debug panel that gives you stuffs.",
-      "version": "1.1.2",
+      "version": "1.2.4",
       "sts_version": "03-07-2022",
       "mts_version": "3.26.0",
       "dependencies": [
@@ -457,7 +488,7 @@
         "basemod",
         "stslib"
       ],
-      "version": "1.6.0",
+      "version": "1.7.1",
       "sts_version": "03-07-2022"
     }
   },
